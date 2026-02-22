@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 9a9d78b8dd96d8449bd218555c396713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6962381749666063956
+    second: pencil460_720_0
+  - first:
+      213: -4409395524427131350
+    second: pencil460_720_1
+  - first:
+      213: -1352886150659499957
+    second: pencil460_720_2
+  - first:
+      213: -2068619050925515398
+    second: pencil460_720_3
+  - first:
+      213: -3474110231782509333
+    second: pencil460_720_4
+  - first:
+      213: 1408537282467084326
+    second: pencil460_720_5
+  - first:
+      213: 7512966417391937069
+    second: pencil460_720_6
+  - first:
+      213: -1073412196774890718
+    second: pencil460_720_7
+  - first:
+      213: -2277908899854005718
+    second: pencil460_720_8
+  - first:
+      213: -3145035043192050049
+    second: pencil460_720_9
+  - first:
+      213: -5269208463516730486
+    second: pencil460_720_10
+  - first:
+      213: 5748607082703124094
+    second: pencil460_720_11
+  - first:
+      213: 3192647359389150141
+    second: pencil460_720_12
+  - first:
+      213: -7544097992726246713
+    second: pencil460_720_13
+  - first:
+      213: -2269163854354813454
+    second: pencil460_720_14
+  - first:
+      213: 5427814671844940049
+    second: pencil460_720_15
+  - first:
+      213: -4800992795530539608
+    second: pencil460_720_16
+  - first:
+      213: 7168630181845615252
+    second: pencil460_720_17
+  - first:
+      213: 8819947588388188274
+    second: pencil460_720_18
+  - first:
+      213: 6487511350976689276
+    second: pencil460_720_19
+  - first:
+      213: 3443196059006999097
+    second: pencil460_720_20
+  - first:
+      213: -3383930333602908930
+    second: pencil460_720_21
+  - first:
+      213: -2318794356599615488
+    second: pencil460_720_22
+  - first:
+      213: 9089886724613448971
+    second: pencil460_720_23
+  - first:
+      213: -2862348282510773296
+    second: pencil460_720_24
+  - first:
+      213: -6428325703022190891
+    second: pencil460_720_25
+  - first:
+      213: 42224498859761546
+    second: pencil460_720_26
+  - first:
+      213: -1414570065774082669
+    second: pencil460_720_27
+  - first:
+      213: -7584425039900034677
+    second: pencil460_720_28
+  - first:
+      213: -7432883860390182405
+    second: pencil460_720_29
+  - first:
+      213: 7969558406148716552
+    second: pencil460_720_30
+  - first:
+      213: 1886019798993153194
+    second: pencil460_720_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pencil460_720_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4802
+        width: 268
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9dd7cdfa6a06f90800000000000000
+      internalID: -6962381749666063956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_1
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 4802
+        width: 284
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d25ce12eaec2c0800000000000000
+      internalID: -4409395524427131350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_2
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 4802
+        width: 285
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481560c635993de0800000000000000
+      internalID: -1352886150659499957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4202
+        width: 369
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9af5eee9ca43e0800000000000000
+      internalID: -2068619050925515398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 4209
+        width: 327
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4bd0c962b79cfc0800000000000000
+      internalID: -3474110231782509333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_5
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 4253
+        width: 449
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628385612312c8310800000000000000
+      internalID: 1408537282467084326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3659
+        width: 529
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26e516b62b634860800000000000000
+      internalID: 7512966417391937069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3725
+        width: 437
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22339a15b497a11f0800000000000000
+      internalID: -1073412196774890718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_8
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3963
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a4089aced3360e0800000000000000
+      internalID: -2277908899854005718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_9
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3658
+        width: 518
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee1649a479a54d0800000000000000
+      internalID: -3145035043192050049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_10
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 3708
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b7a94e1d200e6b0800000000000000
+      internalID: -5269208463516730486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_11
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 3788
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7670dd2fa727cf40800000000000000
+      internalID: 5748607082703124094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_12
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 3852
+        width: 23
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbaa75abdf8e4c20800000000000000
+      internalID: 3192647359389150141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3709
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca80d098dafd4790800000000000000
+      internalID: -7544097992726246713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3013
+        width: 441
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd660c3f7f4280e0800000000000000
+      internalID: -2269163854354813454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3012
+        width: 483
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11998fdafa8735b40800000000000000
+      internalID: 5427814671844940049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_16
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3012
+        width: 452
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad413d3d727f5db0800000000000000
+      internalID: -4800992795530539608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2413
+        width: 442
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4924d0b5b271c7360800000000000000
+      internalID: 7168630181845615252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_18
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2413
+        width: 442
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f07ff99fb66a70800000000000000
+      internalID: 8819947588388188274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_19
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2413
+        width: 442
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74b74f8335480a50800000000000000
+      internalID: 6487511350976689276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1813
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a1325a290b8cf20800000000000000
+      internalID: 3443196059006999097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1812
+        width: 452
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4fde85a4dd901d0800000000000000
+      internalID: -3383930333602908930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_22
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1813
+        width: 494
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00013b371dcf1dfd0800000000000000
+      internalID: -2318794356599615488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1212
+        width: 450
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05af15d0d3c52e70800000000000000
+      internalID: 9089886724613448971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_24
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1213
+        width: 454
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3fe750765e648d0800000000000000
+      internalID: -2862348282510773296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_25
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1205
+        width: 418
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de59d2f4dff9c6a0800000000000000
+      internalID: -6428325703022190891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 605
+        width: 401
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fda5f35f2069000800000000000000
+      internalID: 42224498859761546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_27
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 607
+        width: 326
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39582a715007e5ce0800000000000000
+      internalID: -1414570065774082669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_28
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 607
+        width: 288
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893e273c95beb690800000000000000
+      internalID: -7584425039900034677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 302
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf185b4928719d890800000000000000
+      internalID: -7432883860390182405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_30
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 203
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808f837552f899e60800000000000000
+      internalID: 7969558406148716552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pencil460_720_31
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1
+        width: 249
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac275eb30d7c2a10800000000000000
+      internalID: 1886019798993153194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pencil460_720_0: -6962381749666063956
+      pencil460_720_1: -4409395524427131350
+      pencil460_720_10: -5269208463516730486
+      pencil460_720_11: 5748607082703124094
+      pencil460_720_12: 3192647359389150141
+      pencil460_720_13: -7544097992726246713
+      pencil460_720_14: -2269163854354813454
+      pencil460_720_15: 5427814671844940049
+      pencil460_720_16: -4800992795530539608
+      pencil460_720_17: 7168630181845615252
+      pencil460_720_18: 8819947588388188274
+      pencil460_720_19: 6487511350976689276
+      pencil460_720_2: -1352886150659499957
+      pencil460_720_20: 3443196059006999097
+      pencil460_720_21: -3383930333602908930
+      pencil460_720_22: -2318794356599615488
+      pencil460_720_23: 9089886724613448971
+      pencil460_720_24: -2862348282510773296
+      pencil460_720_25: -6428325703022190891
+      pencil460_720_26: 42224498859761546
+      pencil460_720_27: -1414570065774082669
+      pencil460_720_28: -7584425039900034677
+      pencil460_720_29: -7432883860390182405
+      pencil460_720_3: -2068619050925515398
+      pencil460_720_30: 7969558406148716552
+      pencil460_720_31: 1886019798993153194
+      pencil460_720_4: -3474110231782509333
+      pencil460_720_5: 1408537282467084326
+      pencil460_720_6: 7512966417391937069
+      pencil460_720_7: -1073412196774890718
+      pencil460_720_8: -2277908899854005718
+      pencil460_720_9: -3145035043192050049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

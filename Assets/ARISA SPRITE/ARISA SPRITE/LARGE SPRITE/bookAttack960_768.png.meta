@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 7aedccb8647b5d140b8b1d377a256f4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9098481440969294301
+    second: bookAttack960_768_0
+  - first:
+      213: 59951467762898982
+    second: bookAttack960_768_1
+  - first:
+      213: -9196794984547748409
+    second: bookAttack960_768_2
+  - first:
+      213: -9216369861272688423
+    second: bookAttack960_768_3
+  - first:
+      213: -1234038503652797880
+    second: bookAttack960_768_4
+  - first:
+      213: 2716489413487074447
+    second: bookAttack960_768_5
+  - first:
+      213: 4979189348192468892
+    second: bookAttack960_768_6
+  - first:
+      213: -658305139254575355
+    second: bookAttack960_768_7
+  - first:
+      213: 6128392897321596301
+    second: bookAttack960_768_8
+  - first:
+      213: -9133404624244790362
+    second: bookAttack960_768_9
+  - first:
+      213: -2334651388033051608
+    second: bookAttack960_768_10
+  - first:
+      213: -908164179538586565
+    second: bookAttack960_768_11
+  - first:
+      213: 8676925705122441025
+    second: bookAttack960_768_12
+  - first:
+      213: -7511942930740142539
+    second: bookAttack960_768_13
+  - first:
+      213: 2886848653162008054
+    second: bookAttack960_768_14
+  - first:
+      213: -1807254174179655424
+    second: bookAttack960_768_15
+  - first:
+      213: 3803717806811366637
+    second: bookAttack960_768_16
+  - first:
+      213: 7282533770399224620
+    second: bookAttack960_768_17
+  - first:
+      213: 8465304284387024167
+    second: bookAttack960_768_18
+  - first:
+      213: 8850981145354180230
+    second: bookAttack960_768_19
+  - first:
+      213: 4009019825485135298
+    second: bookAttack960_768_20
+  - first:
+      213: 9114485018822406574
+    second: bookAttack960_768_21
+  - first:
+      213: -871094032298527427
+    second: bookAttack960_768_22
+  - first:
+      213: -8304278270112279842
+    second: bookAttack960_768_23
+  - first:
+      213: 2503089443446680037
+    second: bookAttack960_768_24
+  - first:
+      213: 5791143928581389108
+    second: bookAttack960_768_25
+  - first:
+      213: 7740867919211677173
+    second: bookAttack960_768_26
+  - first:
+      213: 869787835758630124
+    second: bookAttack960_768_27
+  - first:
+      213: -2218680311428656857
+    second: bookAttack960_768_28
+  - first:
+      213: -5742485614342863072
+    second: bookAttack960_768_29
+  - first:
+      213: -6719491302911405051
+    second: bookAttack960_768_30
+  - first:
+      213: -2427344234966365606
+    second: bookAttack960_768_31
+  - first:
+      213: 8689367429089761515
+    second: bookAttack960_768_32
+  - first:
+      213: -4489460400530617100
+    second: bookAttack960_768_33
+  - first:
+      213: 1561651143900083956
+    second: bookAttack960_768_34
+  - first:
+      213: -437402364406890635
+    second: bookAttack960_768_35
+  - first:
+      213: -6247457621140472217
+    second: bookAttack960_768_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bookAttack960_768_0
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1444
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e7a83d553bbb180800000000000000
+      internalID: -9098481440969294301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_1
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1437
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62855c3da8df4d000800000000000000
+      internalID: 59951467762898982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_2
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1395
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ffe130bb6e5080800000000000000
+      internalID: -9196794984547748409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_3
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 1413
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a93c0170e81080800000000000000
+      internalID: -9216369861272688423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_4
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1465
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842de96e480dfdee0800000000000000
+      internalID: -1234038503652797880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_5
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1461
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c910f9ab8e2b520800000000000000
+      internalID: 2716489413487074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_6
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1449
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fbb60d452a91540800000000000000
+      internalID: 4979189348192468892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_7
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1397
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fbae4b6fa3dd6f0800000000000000
+      internalID: -658305139254575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_8
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1474
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8571e8dedc6c0550800000000000000
+      internalID: 6128392897321596301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_9
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1469
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abaaf592e0af3180800000000000000
+      internalID: -9133404624244790362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_10
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1432
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824daed9ee6a99fd0800000000000000
+      internalID: -2334651388033051608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_11
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 1408
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345ed88d7d8563f0800000000000000
+      internalID: -908164179538586565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_12
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1386
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147674cd4f1aa6870800000000000000
+      internalID: 8676925705122441025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_13
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1427
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1a3854b730c790800000000000000
+      internalID: -7511942930740142539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_14
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 1408
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd490c0e85201820800000000000000
+      internalID: 2886848653162008054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_15
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 1449
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0010e2167e75be6e0800000000000000
+      internalID: -1807254174179655424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_16
+      rect:
+        serializedVersion: 2
+        x: 4895
+        y: 786
+        width: 329
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4c1dc313589c430800000000000000
+      internalID: 3803717806811366637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_17
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1375
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239e6131e1c01560800000000000000
+      internalID: 7282533770399224620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_18
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1375
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d1b72456dca7570800000000000000
+      internalID: 8465304284387024167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_19
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1366
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686148a057005da70800000000000000
+      internalID: 8850981145354180230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_20
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1390
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd3a836a46e2a730800000000000000
+      internalID: 4009019825485135298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_21
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1394
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1778185d72d7e70800000000000000
+      internalID: 9114485018822406574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_22
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1408
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3532e6c79049e3f0800000000000000
+      internalID: -871094032298527427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_23
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 1359
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed256f949e641cc80800000000000000
+      internalID: -8304278270112279842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_24
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 783
+        width: 361
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e96bad3692ccb220800000000000000
+      internalID: 2503089443446680037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_25
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1382
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf04268b64e5050800000000000000
+      internalID: 5791143928581389108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 783
+        width: 353
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f544d11c561d6b60800000000000000
+      internalID: 7740867919211677173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_27
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 783
+        width: 368
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45954ad6b121c00800000000000000
+      internalID: 869787835758630124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_28
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 783
+        width: 361
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215427030aa531e0800000000000000
+      internalID: -2218680311428656857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_29
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 783
+        width: 361
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278d4d32c79e40b0800000000000000
+      internalID: -5742485614342863072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 111
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50493aae2429fb2a0800000000000000
+      internalID: -6719491302911405051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 20
+        width: 733
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5acc376747505ed0800000000000000
+      internalID: -2427344234966365606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_32
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 24
+        width: 682
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89eb573a5d69870800000000000000
+      internalID: 8689367429089761515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_33
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 24
+        width: 682
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc80394d8b32b1c0800000000000000
+      internalID: -4489460400530617100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_34
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 22
+        width: 410
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f63f3ff0791ca510800000000000000
+      internalID: 1561651143900083956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_35
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 13
+        width: 288
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f7c95fdd80ee9f0800000000000000
+      internalID: -437402364406890635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookAttack960_768_36
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 15
+        width: 354
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e7d9ed4629c49a0800000000000000
+      internalID: -6247457621140472217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bookAttack960_768_0: -9098481440969294301
+      bookAttack960_768_1: 59951467762898982
+      bookAttack960_768_10: -2334651388033051608
+      bookAttack960_768_11: -908164179538586565
+      bookAttack960_768_12: 8676925705122441025
+      bookAttack960_768_13: -7511942930740142539
+      bookAttack960_768_14: 2886848653162008054
+      bookAttack960_768_15: -1807254174179655424
+      bookAttack960_768_16: 3803717806811366637
+      bookAttack960_768_17: 7282533770399224620
+      bookAttack960_768_18: 8465304284387024167
+      bookAttack960_768_19: 8850981145354180230
+      bookAttack960_768_2: -9196794984547748409
+      bookAttack960_768_20: 4009019825485135298
+      bookAttack960_768_21: 9114485018822406574
+      bookAttack960_768_22: -871094032298527427
+      bookAttack960_768_23: -8304278270112279842
+      bookAttack960_768_24: 2503089443446680037
+      bookAttack960_768_25: 5791143928581389108
+      bookAttack960_768_26: 7740867919211677173
+      bookAttack960_768_27: 869787835758630124
+      bookAttack960_768_28: -2218680311428656857
+      bookAttack960_768_29: -5742485614342863072
+      bookAttack960_768_3: -9216369861272688423
+      bookAttack960_768_30: -6719491302911405051
+      bookAttack960_768_31: -2427344234966365606
+      bookAttack960_768_32: 8689367429089761515
+      bookAttack960_768_33: -4489460400530617100
+      bookAttack960_768_34: 1561651143900083956
+      bookAttack960_768_35: -437402364406890635
+      bookAttack960_768_36: -6247457621140472217
+      bookAttack960_768_4: -1234038503652797880
+      bookAttack960_768_5: 2716489413487074447
+      bookAttack960_768_6: 4979189348192468892
+      bookAttack960_768_7: -658305139254575355
+      bookAttack960_768_8: 6128392897321596301
+      bookAttack960_768_9: -9133404624244790362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

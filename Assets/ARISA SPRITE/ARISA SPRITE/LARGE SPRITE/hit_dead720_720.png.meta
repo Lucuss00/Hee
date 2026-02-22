@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: a4167c1076ab3724eb87b5c9aa769cca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -513273826063285411
+    second: hit_dead720_720_0
+  - first:
+      213: -5051604089579964840
+    second: hit_dead720_720_1
+  - first:
+      213: -4623219437794312165
+    second: hit_dead720_720_2
+  - first:
+      213: -7674173707677520757
+    second: hit_dead720_720_3
+  - first:
+      213: 5000066757205752194
+    second: hit_dead720_720_4
+  - first:
+      213: -3315260934139293115
+    second: hit_dead720_720_5
+  - first:
+      213: -6381250575259782893
+    second: hit_dead720_720_6
+  - first:
+      213: 600134004948900922
+    second: hit_dead720_720_7
+  - first:
+      213: 4747161094533640279
+    second: hit_dead720_720_8
+  - first:
+      213: -6275898614947334380
+    second: hit_dead720_720_9
+  - first:
+      213: 5749236859795664047
+    second: hit_dead720_720_10
+  - first:
+      213: -3914425219117558165
+    second: hit_dead720_720_11
+  - first:
+      213: -4919873668158047917
+    second: hit_dead720_720_12
+  - first:
+      213: 8854886303598545756
+    second: hit_dead720_720_13
+  - first:
+      213: -28685114679525720
+    second: hit_dead720_720_14
+  - first:
+      213: -2472897997095149849
+    second: hit_dead720_720_15
+  - first:
+      213: 1043375248511975319
+    second: hit_dead720_720_16
+  - first:
+      213: 4167471935599614907
+    second: hit_dead720_720_17
+  - first:
+      213: -6664293964707469354
+    second: hit_dead720_720_18
+  - first:
+      213: -7945624055130131218
+    second: hit_dead720_720_19
+  - first:
+      213: 6689854257105031752
+    second: hit_dead720_720_20
+  - first:
+      213: 4364134021412686675
+    second: hit_dead720_720_21
+  - first:
+      213: -4287094113330111144
+    second: hit_dead720_720_22
+  - first:
+      213: 4882262089602767117
+    second: hit_dead720_720_23
+  - first:
+      213: 1243119282571041916
+    second: hit_dead720_720_24
+  - first:
+      213: 2967316791810773043
+    second: hit_dead720_720_25
+  - first:
+      213: 1729070473769800390
+    second: hit_dead720_720_26
+  - first:
+      213: 4969806308022480263
+    second: hit_dead720_720_27
+  - first:
+      213: 6884738532156885207
+    second: hit_dead720_720_28
+  - first:
+      213: 8041710969685535441
+    second: hit_dead720_720_29
+  - first:
+      213: 2228695360292662369
+    second: hit_dead720_720_30
+  - first:
+      213: 2236322721022478727
+    second: hit_dead720_720_31
+  - first:
+      213: -3432590295238316412
+    second: hit_dead720_720_32
+  - first:
+      213: 8426375211723555953
+    second: hit_dead720_720_33
+  - first:
+      213: 88508051731992086
+    second: hit_dead720_720_34
+  - first:
+      213: 217145590870033382
+    second: hit_dead720_720_35
+  - first:
+      213: -191460681838535016
+    second: hit_dead720_720_36
+  - first:
+      213: 1169862208950440004
+    second: hit_dead720_720_37
+  - first:
+      213: -7335632203307214307
+    second: hit_dead720_720_38
+  - first:
+      213: 5989981839021889537
+    second: hit_dead720_720_39
+  - first:
+      213: 3930571376035021388
+    second: hit_dead720_720_40
+  - first:
+      213: 9194844072715652433
+    second: hit_dead720_720_41
+  - first:
+      213: -5341116273624394108
+    second: hit_dead720_720_42
+  - first:
+      213: 7277098526157498461
+    second: hit_dead720_720_43
+  - first:
+      213: 6245845522251946425
+    second: hit_dead720_720_44
+  - first:
+      213: -1515074446347242256
+    second: hit_dead720_720_45
+  - first:
+      213: -8152843765114007233
+    second: hit_dead720_720_46
+  - first:
+      213: 1446444770662466230
+    second: hit_dead720_720_47
+  - first:
+      213: 3010756295578535535
+    second: hit_dead720_720_48
+  - first:
+      213: -4596705876437694751
+    second: hit_dead720_720_49
+  - first:
+      213: -6490477977749000216
+    second: hit_dead720_720_50
+  - first:
+      213: -2777172615397961045
+    second: hit_dead720_720_51
+  - first:
+      213: -3931331839869734698
+    second: hit_dead720_720_52
+  - first:
+      213: -3991922510156331355
+    second: hit_dead720_720_53
+  - first:
+      213: -1929467256498127987
+    second: hit_dead720_720_54
+  - first:
+      213: -2268038833277210134
+    second: hit_dead720_720_55
+  - first:
+      213: 2863368835043134486
+    second: hit_dead720_720_56
+  - first:
+      213: 6187684826712313323
+    second: hit_dead720_720_57
+  - first:
+      213: 6883990255290228587
+    second: hit_dead720_720_58
+  - first:
+      213: 4976775149783738226
+    second: hit_dead720_720_59
+  - first:
+      213: 7993492469206035666
+    second: hit_dead720_720_60
+  - first:
+      213: -913815670345819879
+    second: hit_dead720_720_61
+  - first:
+      213: -4945175911928392874
+    second: hit_dead720_720_62
+  - first:
+      213: 1988589382611240271
+    second: hit_dead720_720_63
+  - first:
+      213: -7585722626012206101
+    second: hit_dead720_720_64
+  - first:
+      213: 8844021986276388493
+    second: hit_dead720_720_65
+  - first:
+      213: 4335368906552729314
+    second: hit_dead720_720_66
+  - first:
+      213: 4336361485178054471
+    second: hit_dead720_720_67
+  - first:
+      213: -3434809151212293540
+    second: hit_dead720_720_68
+  - first:
+      213: 103100409560233941
+    second: hit_dead720_720_69
+  - first:
+      213: -5692472693662671319
+    second: hit_dead720_720_70
+  - first:
+      213: -4367283775656712864
+    second: hit_dead720_720_71
+  - first:
+      213: 7219876012864167645
+    second: hit_dead720_720_72
+  - first:
+      213: 2630666920034675010
+    second: hit_dead720_720_73
+  - first:
+      213: -3931789922454246963
+    second: hit_dead720_720_74
+  - first:
+      213: -6299624089128623329
+    second: hit_dead720_720_75
+  - first:
+      213: 1573194427059282036
+    second: hit_dead720_720_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hit_dead720_720_0
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 4881
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d530ef4bc2c70e8f0800000000000000
+      internalID: -513273826063285411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_1
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 4937
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856fca658d815e9b0800000000000000
+      internalID: -5051604089579964840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 4900
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10c69b8a6607dfb0800000000000000
+      internalID: -4623219437794312165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_3
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 4907
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c2d312cabdf7590800000000000000
+      internalID: -7674173707677520757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_4
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 4959
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289fc74693ec36540800000000000000
+      internalID: 5000066757205752194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_5
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 4957
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d5e2deb3ddf1d0800000000000000
+      internalID: -3315260934139293115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_6
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 4948
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31132ee396e3177a0800000000000000
+      internalID: -6381250575259782893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_7
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 4946
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c9c96a2ba145800800000000000000
+      internalID: 600134004948900922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_8
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 4966
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507b3b2ddd41e140800000000000000
+      internalID: 4747161094533640279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_9
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 4900
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b2b9f57787e8a0800000000000000
+      internalID: -6275898614947334380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_10
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 4932
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: face3b5967469cf40800000000000000
+      internalID: 5749236859795664047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_11
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 4911
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66daa2b00b2da9c0800000000000000
+      internalID: -3914425219117558165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_12
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 4879
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35934a527f819bbb0800000000000000
+      internalID: -4919873668158047917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_13
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 4808
+        width: 144
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b867c8d20e2ea70800000000000000
+      internalID: 8854886303598545756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_14
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 4867
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae7f294a071a9ff0800000000000000
+      internalID: -28685114679525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_15
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 4891
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee5e55af508eadd0800000000000000
+      internalID: -2472897997095149849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_16
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 4894
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fbdfea240da7e00800000000000000
+      internalID: 1043375248511975319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_17
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 4899
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb13dc25a5d5d930800000000000000
+      internalID: 4167471935599614907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_18
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 4910
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e4d2b2fba383a0800000000000000
+      internalID: -6664293964707469354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_19
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 4910
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47b2305097bb190800000000000000
+      internalID: -7945624055130131218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_20
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 4867
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84251e1a00327dc50800000000000000
+      internalID: 6689854257105031752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_21
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 4877
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b008235c4809c30800000000000000
+      internalID: 4364134021412686675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_22
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 4866
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5a403e9e2184c0800000000000000
+      internalID: -4287094113330111144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4355
+        width: 302
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09112fc08741c340800000000000000
+      internalID: 4882262089602767117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_24
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 4356
+        width: 440
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd513b662704110800000000000000
+      internalID: 1243119282571041916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_25
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 4359
+        width: 432
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330deef86e60e2920800000000000000
+      internalID: 2967316791810773043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_26
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 4359
+        width: 427
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25aa45f64eef710800000000000000
+      internalID: 1729070473769800390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_27
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 4360
+        width: 414
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dec28818c48f440800000000000000
+      internalID: 4969806308022480263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4158
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c7a4d7318b8f50800000000000000
+      internalID: 6884738532156885207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_29
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 4150
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dae7762585e99f60800000000000000
+      internalID: 8041710969685535441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_30
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 4139
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c2ece3f9aedee10800000000000000
+      internalID: 2228695360292662369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_31
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 4093
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7890ead8aa3090f10800000000000000
+      internalID: 2236322721022478727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3638
+        width: 373
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eedd8205dfc50d0800000000000000
+      internalID: -3432590295238316412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3633
+        width: 346
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17480f63c9f70f470800000000000000
+      internalID: 8426375211723555953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_34
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3635
+        width: 291
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e4f37aa917a3100800000000000000
+      internalID: 88508051731992086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_35
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 3634
+        width: 360
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3c950b3c4730300800000000000000
+      internalID: 217145590870033382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_36
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 3633
+        width: 372
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e5f86368bc75df0800000000000000
+      internalID: -191460681838535016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2916
+        width: 341
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44015a81b7f2c3010800000000000000
+      internalID: 1169862208950440004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_38
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2915
+        width: 364
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a15fe7069923a90800000000000000
+      internalID: -7335632203307214307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_39
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2916
+        width: 365
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d0fd0fb0b02350800000000000000
+      internalID: 5989981839021889537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_40
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 2914
+        width: 327
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c2e867d13c8630800000000000000
+      internalID: 3930571376035021388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_41
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 2917
+        width: 308
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d825fb7f5aa9f70800000000000000
+      internalID: 9194844072715652433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2192
+        width: 402
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4865f8e2c0b80e5b0800000000000000
+      internalID: -5341116273624394108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_43
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2507
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58e227cd827df460800000000000000
+      internalID: 7277098526157498461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_44
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2193
+        width: 306
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99acb1963bda650800000000000000
+      internalID: 6245845522251946425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_45
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2194
+        width: 341
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4733971df59fae0800000000000000
+      internalID: -1515074446347242256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_46
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2194
+        width: 274
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f311f1f8ac74bde80800000000000000
+      internalID: -8152843765114007233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_47
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 2193
+        width: 330
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ce86faddc21410800000000000000
+      internalID: 1446444770662466230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_48
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2379
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ca3f26ea58c920800000000000000
+      internalID: 3010756295578535535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_49
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2207
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60bf91c583530c0800000000000000
+      internalID: -4596705876437694751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_50
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 2205
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef66c1daa03de5a0800000000000000
+      internalID: -6490477977749000216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1473
+        width: 331
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2134b68308579d0800000000000000
+      internalID: -2777172615397961045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1473
+        width: 331
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b16e458a1179c0800000000000000
+      internalID: -3931331839869734698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_53
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1485
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a60f3b80a7d998c0800000000000000
+      internalID: -3991922510156331355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_54
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1474
+        width: 242
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7ea2c0c72935e0800000000000000
+      internalID: -1929467256498127987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_55
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1485
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae178bd92be4680e0800000000000000
+      internalID: -2268038833277210134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_56
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1471
+        width: 357
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c8ba1e8cabcb720800000000000000
+      internalID: 2863368835043134486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_57
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 1485
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed034ee0921fd550800000000000000
+      internalID: 6187684826712313323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_58
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1464
+        width: 337
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f13db0aa8d88f50800000000000000
+      internalID: 6883990255290228587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 765
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e9d171ae011540800000000000000
+      internalID: 4976775149783738226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 743
+        width: 338
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc29c5ac079eee60800000000000000
+      internalID: 7993492469206035666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_61
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 765
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9191ada4d797153f0800000000000000
+      internalID: -913815670345819879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_62
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 744
+        width: 336
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65390b175b43f5bb0800000000000000
+      internalID: -4945175911928392874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_63
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 765
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4508aae183e89b10800000000000000
+      internalID: 1988589382611240271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_64
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 744
+        width: 336
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb26e766791ab690800000000000000
+      internalID: -7585722626012206101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_65
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 765
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eafbd83274cba70800000000000000
+      internalID: 8844021986276388493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_66
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 743
+        width: 351
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee595dfc035a2c30800000000000000
+      internalID: 4335368906552729314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_67
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 765
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74729b5bbc9dd2c30800000000000000
+      internalID: 4336361485178054471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_68
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 743
+        width: 404
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fabe764b1550d0800000000000000
+      internalID: -3434809151212293540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 45
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7f808b6494e6100800000000000000
+      internalID: 103100409560233941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 18
+        width: 462
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e10a0ce364001b0800000000000000
+      internalID: -5692472693662671319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_71
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 45
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065a7ae7b8a4463c0800000000000000
+      internalID: -4367283775656712864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_72
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 11
+        width: 476
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded12d2bf6223460800000000000000
+      internalID: 7219876012864167645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_73
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 45
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249a90b30a1028420800000000000000
+      internalID: 2630666920034675010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_74
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 11
+        width: 476
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc967a4a5e97f69c0800000000000000
+      internalID: -3931789922454246963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_75
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 45
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13aefc844d3398a0800000000000000
+      internalID: -6299624089128623329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_dead720_720_76
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 11
+        width: 476
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4702e7b0ffb15d510800000000000000
+      internalID: 1573194427059282036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hit_dead720_720_0: -513273826063285411
+      hit_dead720_720_1: -5051604089579964840
+      hit_dead720_720_10: 5749236859795664047
+      hit_dead720_720_11: -3914425219117558165
+      hit_dead720_720_12: -4919873668158047917
+      hit_dead720_720_13: 8854886303598545756
+      hit_dead720_720_14: -28685114679525720
+      hit_dead720_720_15: -2472897997095149849
+      hit_dead720_720_16: 1043375248511975319
+      hit_dead720_720_17: 4167471935599614907
+      hit_dead720_720_18: -6664293964707469354
+      hit_dead720_720_19: -7945624055130131218
+      hit_dead720_720_2: -4623219437794312165
+      hit_dead720_720_20: 6689854257105031752
+      hit_dead720_720_21: 4364134021412686675
+      hit_dead720_720_22: -4287094113330111144
+      hit_dead720_720_23: 4882262089602767117
+      hit_dead720_720_24: 1243119282571041916
+      hit_dead720_720_25: 2967316791810773043
+      hit_dead720_720_26: 1729070473769800390
+      hit_dead720_720_27: 4969806308022480263
+      hit_dead720_720_28: 6884738532156885207
+      hit_dead720_720_29: 8041710969685535441
+      hit_dead720_720_3: -7674173707677520757
+      hit_dead720_720_30: 2228695360292662369
+      hit_dead720_720_31: 2236322721022478727
+      hit_dead720_720_32: -3432590295238316412
+      hit_dead720_720_33: 8426375211723555953
+      hit_dead720_720_34: 88508051731992086
+      hit_dead720_720_35: 217145590870033382
+      hit_dead720_720_36: -191460681838535016
+      hit_dead720_720_37: 1169862208950440004
+      hit_dead720_720_38: -7335632203307214307
+      hit_dead720_720_39: 5989981839021889537
+      hit_dead720_720_4: 5000066757205752194
+      hit_dead720_720_40: 3930571376035021388
+      hit_dead720_720_41: 9194844072715652433
+      hit_dead720_720_42: -5341116273624394108
+      hit_dead720_720_43: 7277098526157498461
+      hit_dead720_720_44: 6245845522251946425
+      hit_dead720_720_45: -1515074446347242256
+      hit_dead720_720_46: -8152843765114007233
+      hit_dead720_720_47: 1446444770662466230
+      hit_dead720_720_48: 3010756295578535535
+      hit_dead720_720_49: -4596705876437694751
+      hit_dead720_720_5: -3315260934139293115
+      hit_dead720_720_50: -6490477977749000216
+      hit_dead720_720_51: -2777172615397961045
+      hit_dead720_720_52: -3931331839869734698
+      hit_dead720_720_53: -3991922510156331355
+      hit_dead720_720_54: -1929467256498127987
+      hit_dead720_720_55: -2268038833277210134
+      hit_dead720_720_56: 2863368835043134486
+      hit_dead720_720_57: 6187684826712313323
+      hit_dead720_720_58: 6883990255290228587
+      hit_dead720_720_59: 4976775149783738226
+      hit_dead720_720_6: -6381250575259782893
+      hit_dead720_720_60: 7993492469206035666
+      hit_dead720_720_61: -913815670345819879
+      hit_dead720_720_62: -4945175911928392874
+      hit_dead720_720_63: 1988589382611240271
+      hit_dead720_720_64: -7585722626012206101
+      hit_dead720_720_65: 8844021986276388493
+      hit_dead720_720_66: 4335368906552729314
+      hit_dead720_720_67: 4336361485178054471
+      hit_dead720_720_68: -3434809151212293540
+      hit_dead720_720_69: 103100409560233941
+      hit_dead720_720_7: 600134004948900922
+      hit_dead720_720_70: -5692472693662671319
+      hit_dead720_720_71: -4367283775656712864
+      hit_dead720_720_72: 7219876012864167645
+      hit_dead720_720_73: 2630666920034675010
+      hit_dead720_720_74: -3931789922454246963
+      hit_dead720_720_75: -6299624089128623329
+      hit_dead720_720_76: 1573194427059282036
+      hit_dead720_720_8: 4747161094533640279
+      hit_dead720_720_9: -6275898614947334380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
